@@ -1,2 +1,3 @@
 # Naprzetarg
 NaPrzetargXMLinserter
+@ Additonal information
