@@ -1,0 +1,28 @@
+C:\Users\qwe\AppData\Local\Temporary Projects\NaPrzetarg_1_0\bin\Debug\NaPrzetarg_1_0.exe
+C:\Users\qwe\AppData\Local\Temporary Projects\NaPrzetarg_1_0\bin\Debug\NaPrzetarg_1_0.pdb
+C:\Users\qwe\AppData\Local\Temporary Projects\NaPrzetarg_1_0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\qwe\AppData\Local\Temporary Projects\NaPrzetarg_1_0\obj\x86\Debug\NaPrzetarg_1_0.Form1.resources
+C:\Users\qwe\AppData\Local\Temporary Projects\NaPrzetarg_1_0\obj\x86\Debug\NaPrzetarg_1_0.Properties.Resources.resources
+C:\Users\qwe\AppData\Local\Temporary Projects\NaPrzetarg_1_0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\qwe\AppData\Local\Temporary Projects\NaPrzetarg_1_0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\qwe\AppData\Local\Temporary Projects\NaPrzetarg_1_0\obj\x86\Debug\NaPrzetarg_1_0.exe
+C:\Users\qwe\AppData\Local\Temporary Projects\NaPrzetarg_1_0\obj\x86\Debug\NaPrzetarg_1_0.pdb
+C:\Users\qwe\documents\visual studio 2010\Projects\NaPrzetarg_1_0\NaPrzetarg_1_0\obj\x86\Debug\NaPrzetarg_1_0.exe
+C:\Users\qwe\documents\visual studio 2010\Projects\NaPrzetarg_1_0\NaPrzetarg_1_0\obj\x86\Debug\NaPrzetarg_1_0.pdb
+C:\Users\qwe\Documents\Visual Studio 2010\Projects\NaPrzetarg_1_0\NaPrzetarg_1_0\bin\Debug\NaPrzetarg_1_0.exe
+C:\Users\qwe\Documents\Visual Studio 2010\Projects\NaPrzetarg_1_0\NaPrzetarg_1_0\bin\Debug\NaPrzetarg_1_0.pdb
+C:\Users\qwe\Documents\Visual Studio 2010\Projects\NaPrzetarg_1_0\NaPrzetarg_1_0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\qwe\Documents\Visual Studio 2010\Projects\NaPrzetarg_1_0\NaPrzetarg_1_0\obj\x86\Debug\NaPrzetarg_1_0.Form1.resources
+C:\Users\qwe\Documents\Visual Studio 2010\Projects\NaPrzetarg_1_0\NaPrzetarg_1_0\obj\x86\Debug\NaPrzetarg_1_0.Properties.Resources.resources
+C:\Users\qwe\Documents\Visual Studio 2010\Projects\NaPrzetarg_1_0\NaPrzetarg_1_0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\qwe\Documents\Visual Studio 2010\Projects\NaPrzetarg_1_0\NaPrzetarg_1_0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\qwe\Documents\Visual Studio 2010\Projects\NaPrzetarg_1_0\NaPrzetarg_1_0\bin\Debug\MySql.Data.dll
+C:\Users\8540w\Documents\Visual Studio 2010\Projects\NaPrzetarg_1_0\NaPrzetarg_1_0\bin\Debug\NaPrzetarg_1_0.exe
+C:\Users\8540w\Documents\Visual Studio 2010\Projects\NaPrzetarg_1_0\NaPrzetarg_1_0\bin\Debug\NaPrzetarg_1_0.pdb
+C:\Users\8540w\Documents\Visual Studio 2010\Projects\NaPrzetarg_1_0\NaPrzetarg_1_0\bin\Debug\MySql.Data.dll
+C:\Users\8540w\Documents\Visual Studio 2010\Projects\NaPrzetarg_1_0\NaPrzetarg_1_0\obj\x86\Debug\NaPrzetarg_1_0.Form1.resources
+C:\Users\8540w\Documents\Visual Studio 2010\Projects\NaPrzetarg_1_0\NaPrzetarg_1_0\obj\x86\Debug\NaPrzetarg_1_0.Properties.Resources.resources
+C:\Users\8540w\Documents\Visual Studio 2010\Projects\NaPrzetarg_1_0\NaPrzetarg_1_0\obj\x86\Debug\NaPrzetarg_1_0.csproj.GenerateResource.Cache
+C:\Users\8540w\Documents\Visual Studio 2010\Projects\NaPrzetarg_1_0\NaPrzetarg_1_0\obj\x86\Debug\NaPrzetarg_1_0.exe
+C:\Users\8540w\Documents\Visual Studio 2010\Projects\NaPrzetarg_1_0\NaPrzetarg_1_0\obj\x86\Debug\NaPrzetarg_1_0.pdb
+C:\Users\8540w\Documents\Visual Studio 2010\Projects\NaPrzetarg_1_0\NaPrzetarg_1_0\obj\x86\Debug\NaPrzetarg_1_0.csprojResolveAssemblyReference.cache
